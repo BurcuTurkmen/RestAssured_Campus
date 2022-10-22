@@ -1,0 +1,13 @@
+<suite name="Regression Test Suite">
+
+    <test name="Regression Test">
+
+        <classes>
+            <class name="DiscountFunctionTest"></class>
+            <class name="FeesFunctionTest"></class>
+            <class name="CitizenshipFunctionTest"></class>
+        </classes>
+
+    </test>
+
+</suite>
