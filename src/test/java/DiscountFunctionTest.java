@@ -169,6 +169,8 @@ public class DiscountFunctionTest {
     }
 
     @Test(dependsOnMethods = "deleteDiscountTest")
+
+
     public void getDiscountNegativeTest() {
 
         given()
